@@ -1,5 +1,9 @@
-# なぜ今の時代になぜ Obsidian か
+# なぜ今の時代に Obsidian か
 
-## [マークダウン](markdown.md)
+## [マークダウン](./markdown.md)
 
-## [コンテキストエンジニアリング](context-engineering.md)
+## [ローカルファースト](./local.md)
+
+## [ノードリンク](./node-link.md)
+
+![whats-obsidian.png](./whats-obsidian.png)

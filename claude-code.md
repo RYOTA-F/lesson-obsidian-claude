@@ -1,4 +1,4 @@
-# Claude Code ガイド
+# Claude Code
 
 ## 概要
 
@@ -22,7 +22,7 @@ Claude Code は、Anthropic が提供する AI コーディングアシスタン
 Claude Code を起動すると、現在のディレクトリをプロジェクトルートとして認識します。
 
 ```bash
-claude-code
+claude
 ```
 
 ### 初回利用時の推奨ステップ
